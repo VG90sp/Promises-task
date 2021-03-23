@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-named-as-default
 import GameSavingLoader from '../GameSavingLoader';
 
 test('promise', async () => {
